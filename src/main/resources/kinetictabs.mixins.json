@@ -1,0 +1,10 @@
+{
+  "minVersion": "0.8",
+  "package": "dev.xyat.kinetictabs.tabs.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "kinetictabs.mixins.refmap.json",
+  "client": [
+    "client.Access",
+    "client.CreativeModeTabMixins"
+  ]
+}
