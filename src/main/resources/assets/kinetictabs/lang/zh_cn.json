@@ -52,7 +52,7 @@
   "cfg.kinetictabs.tabs.open_editor.tooltip": "§a支持单物品、带 NBT 物品、#物品标签、@模组命名空间删除规则，以及标签页隐藏和物品追加。§e保存前服务器会验证标签页、物品和 NBT。",
   "gui.kinetictabs.tabs.notify.save_failed": "§c创造标签页配置保存失败：权限、规则内容或磁盘写入无效。",
   "gui.kinetictabs.tabs.notify.load_failed": "§c无法读取创造标签页配置，编辑器未打开。",
-  "gui.kinetictabs.module.name": "KineticTabs",
+  "gui.kinetictabs.module.name": "动力创造栏管理",
   "gui.kinetictabs.module.function": "创造栏管理",
   "gui.kinetictabs.module.tooltip": "管理创造模式物品栏分页、物品显示、隐藏与自定义内容。"
 }
